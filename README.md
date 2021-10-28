@@ -4,4 +4,4 @@ Projeto de clonagem da Netflix, porém de um jeito mais pessoal, relacionado ao 
 Preview:
 
 
-<img src="img/preview.jpg">
+  <img src="img/netflix-clone.gif">
